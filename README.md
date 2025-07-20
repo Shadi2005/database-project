@@ -22,5 +22,5 @@ This academic project focuses on designing and implementing a relational databas
   - Bulk **import/export** of data using Excel files via `BULK INSERT` and other SQL Server commands  
   - Integration of one core procedure within an **SSIS environment** for ETL demonstration
 
-With contribution of [@maryam-azimi](https://github.com/maryam-azimi) :)
+With contribution of [@maryam-azimi2005](https://github.com/maryam-azimi2005) :)
   
